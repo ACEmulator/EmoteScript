@@ -616,6 +616,9 @@ namespace EmoteScriptLib
             if (Delay != null && Delay != 0.0f)
                 result += $"Delay: {Delay}, ";
 
+            if (Extent != null && Extent > 1.0f)
+                result += $"Extent: {Extent}, ";
+
             result += Type;
 
             var fluentString = GetFluentString();

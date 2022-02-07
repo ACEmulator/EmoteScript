@@ -9,9 +9,10 @@ namespace EmoteScriptLib.Emotes
 
         }
         
-        public Say(string message) : base(EmoteType.Say)
+        public Say(string message, float? extent = null) : base(EmoteType.Say)
         {
             Message = message;
+            Extent = extent;
         }
     }
 }

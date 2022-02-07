@@ -51,16 +51,18 @@ namespace EmoteScriptLib
             { EmoteField.AnglesZ,         FieldType.Float },
         };
 
-        public Emote_Line(EmoteType type, Dictionary<string, string> dict, float? delay = null)
+        public Emote_Line(EmoteType type, Dictionary<string, string> dict, float? delay = null, float? extent = null)
         {
-            Emote = BuildEmote(type, dict, delay);
+            Emote = BuildEmote(type, dict, delay, extent);
         }
 
-        public static Emote BuildEmote(EmoteType type, Dictionary<string, string> dict, float? delay = null)
+        public static Emote BuildEmote(EmoteType type, Dictionary<string, string> dict, float? delay = null, float? extent = null)
         {
             var emote = Factory.Create(type);
 
             emote.Delay = delay;
+
+            emote.Extent = extent;
 
             var kvps = ParseFieldDictionary(type, dict);
 

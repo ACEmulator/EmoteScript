@@ -16,7 +16,14 @@ namespace EmoteScriptLib
             if (pre.Length == 0)
                 return null;
 
-            pre = ParseDelay(pre, out var delay);
+            float? delay = null;
+            float? extent = null;
+            while (pre.StartsWith("Delay") || pre.StartsWith("Extent"))
+            {
+                pre = ParseDelay(pre, out delay);
+
+                pre = ParseExtent(pre, out extent);
+            }
 
             var cmd = ParseCommand(pre, out var parms);
 
@@ -26,7 +33,7 @@ namespace EmoteScriptLib
 
             if (Enum.TryParse(cmd, true, out EmoteType type) && type != EmoteType.Give || line.Trim().StartsWith('-'))
             {
-                var emote = new Emote_Line(type, dict, delay);
+                var emote = new Emote_Line(type, dict, delay, extent);
                 return emote;
             }
 
@@ -111,6 +118,42 @@ namespace EmoteScriptLib
             line = line.Substring(idx).TrimStart(',').Trim();
 
             //Console.WriteLine($"Delay: {delay}");
+            //Console.WriteLine($"Suffix: {line}");
+
+            return line;
+        }
+
+        public static string ParseExtent(string line, out float? extent)
+        {
+            extent = null;
+
+            if (!line.StartsWith("Extent", StringComparison.OrdinalIgnoreCase))
+                return line;
+
+            var suffix = line.Substring(6).TrimStart(':').Trim();
+
+            var match = Regex.Match(suffix, @"^([\d.]+)");
+            if (!match.Success)
+            {
+                Console.WriteLine($"Line.ParseExtent() - couldn't read extent from {suffix}");
+                return line;
+            }
+
+            var extentStr = match.Groups[1].Value;
+
+            if (!float.TryParse(extentStr, out var _extent))
+            {
+                Console.WriteLine($"Line.ParseExtent() - couldn't read extent from {match.Groups[1].Value}");
+                return line;
+            }
+
+            extent = _extent;
+
+            var idx = line.IndexOf(extentStr) + extentStr.Length;
+
+            line = line.Substring(idx).TrimStart(',').Trim();
+
+            //Console.WriteLine($"Extent: {extent}");
             //Console.WriteLine($"Suffix: {line}");
 
             return line;

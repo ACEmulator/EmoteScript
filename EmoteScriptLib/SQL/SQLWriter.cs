@@ -83,7 +83,7 @@ namespace EmoteScriptLib.SQL
                 var destinationTypeStr = emote.DestinationType != null ? $"{(int)emote.DestinationType} /* {emote.DestinationType} */" : "NULL";
                 var weenieClassIdStr = GetSQLString(emote.WeenieClassId) + GetWeenieName(emote.WeenieClassId);
                 var stackSize = GetSQLString(emote.StackSize);
-                var palette = GetSQLString(emote.Palette);
+                var palette = emote.Palette != null ? $"{(int)emote.Palette} /* {emote.Palette} */" : "NULL";
                 var shade = GetSQLString(emote.Shade);
                 var tryToBond = GetSQLString(emote.TryToBond);
                 var objCellId = emote.ObjCellId != null ? $"0x{(uint)emote.ObjCellId:X8}" : "NULL";

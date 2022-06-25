@@ -183,7 +183,7 @@ namespace EmoteScriptLib
                         break;
 
                     case EmoteField.Palette:
-                        emote.Palette = Parser.TryParseInt(val);
+                        emote.Palette = Parser.TryParsePaletteTemplate(val);
                         break;
 
                     case EmoteField.Shade:
@@ -569,7 +569,7 @@ namespace EmoteScriptLib
             { EmoteType.EraseQuest, new List<EmoteField>() { EmoteField.Message } },
             { EmoteType.FellowBroadcast, new List<EmoteField>() { EmoteField.Message } },
             { EmoteType.ForceMotion, new List<EmoteField>() { EmoteField.Motion } },
-            { EmoteType.Give, new List<EmoteField>() { EmoteField.WeenieClassId, EmoteField.StackSize } },
+            { EmoteType.Give, new List<EmoteField>() { EmoteField.WeenieClassId, EmoteField.StackSize, EmoteField.Palette, EmoteField.Shade } },
             { EmoteType.Goto, new List<EmoteField>() { EmoteField.Message } },
             { EmoteType.IncrementIntStat, new List<EmoteField>() { EmoteField.PropertyIntStat, EmoteField.Amount } },
             { EmoteType.IncrementMyQuest, new List<EmoteField>() { EmoteField.Message, EmoteField.Amount } },

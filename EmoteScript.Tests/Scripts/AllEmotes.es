@@ -49,6 +49,10 @@ ForceMotion: Motion.Wave
 ForceMotion: Wave
 Give: 1234
 Give: 1234, 5
+Give: 1234, Palette: Red
+Give: 1234, Palette: 14
+Give: 1234, Shade 0.4321
+Give: 1234, 5, Palette: Red, Shade 0.5
 Goto: JumpToSet
 IncrementIntStat: NumDeaths
 IncrementIntStat: NumDeaths, 2

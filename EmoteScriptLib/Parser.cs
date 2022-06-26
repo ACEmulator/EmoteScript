@@ -341,6 +341,26 @@ namespace EmoteScriptLib
             return spellId;
         }
 
+        public static PaletteTemplate? TryParsePaletteTemplate(string paletteStr)
+        {
+            paletteStr = paletteStr.Replace("Palette.", "");
+            paletteStr = paletteStr.Replace("PaletteTemplate.", "");
+
+            if (!Enum.TryParse(paletteStr, true, out PaletteTemplate palette))
+            {
+                if (paletteStr.StartsWith("0x") && uint.TryParse(paletteStr.Substring(2), NumberStyles.HexNumber, CultureInfo.InvariantCulture, out var paletteNum))
+                {
+                    return (PaletteTemplate)paletteNum;
+                }
+                else
+                {
+                    Console.WriteLine($"TryParsePaletteTemplate() - couldn't convert Palette from \"{paletteStr}\"");
+                    return null;
+                }
+            }
+            return palette;
+        }
+
         public static PlayScript? TryParsePlayScript(string playScriptStr)
         {
             playScriptStr = playScriptStr.Replace("PlayScript.", "");

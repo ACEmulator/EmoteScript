@@ -10,13 +10,15 @@ namespace EmoteScriptLib.Emotes
         {
 
         }
-        
-        public Give(uint wcid, int stackSize = 1)
+
+        public Give(uint wcid, int stackSize = 1, PaletteTemplate palette = PaletteTemplate.Undef, float shade = 0)
 
             : base(EmoteType.Give)
         {
             WeenieClassId = wcid;
             StackSize = stackSize;
+            Palette = palette;
+            Shade = shade;
         }
     }
 }

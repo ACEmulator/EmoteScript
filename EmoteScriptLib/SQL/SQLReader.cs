@@ -102,7 +102,7 @@ namespace EmoteScriptLib.SQL
             { "Extent", "1" },
             { "Message", "" },
             { "HeroXP64", "0" },
-            { "Palette", "0" },
+            { "Palette", "Undef" },
             { "Probability", "1" },
             { "Shade", "0" },
             { "StackSize", "1" },
@@ -341,6 +341,13 @@ namespace EmoteScriptLib.SQL
             {
                 if (!Enum.TryParse(value, out PlayScript result))
                     Console.WriteLine($"Failed to parse {value} into PlayScript");
+
+                return result;
+            }
+            else if (prop.PropertyType.FullName.Contains("Palette"))
+            {
+                if (!Enum.TryParse(value, out PaletteTemplate result))
+                    Console.WriteLine($"Failed to parse {value} into PaletteTemplate");
 
                 return result;
             }

@@ -1499,7 +1499,7 @@
 1585,Scroll of Invulnerability Self
 1586,Scroll of Infuse Mana
 1587,Scroll of Mana Drain
-1588,Scroll of Aura of Blood Drinker Self
+1588,Aura of Blood Drinker Self
 1589,Scroll of Blood Loather
 1590,Lugian Outpost
 1591,Surface
@@ -1747,8 +1747,8 @@
 1833,Waham ibn Fadyat the Shopkeeper
 1834,Tailor Istima al-Mahat
 1835,Ulib ibn Ghunir the Weaponsmith
-1836,Scroll of WillPower Other
-1837,Scroll of WillPower Self
+1836,Scroll of Willpower Other
+1837,Scroll of Willpower Self
 1838,Scroll of Acid Protection Other
 1839,Scroll of Acid Protection Self
 1840,Scroll of Acid Vulnerability Other
@@ -1791,12 +1791,12 @@
 1877,Scroll of Bludgeon Bane
 1878,Scroll of Bludgeon Lure
 1879,Scroll of Brittlemail
-1880,Scroll of Aura of Defender Self
+1880,Aura of Defender Self
 1881,Scroll of Flame Bane
 1882,Scroll of Flame Lure
 1883,Scroll of Frost Bane
 1884,Scroll of Frost Lure
-1885,Scroll of Aura of Heartseeker Self
+1885,Aura of Heartseeker Self
 1886,Scroll of Hermetic Void
 1887,Scroll of Impenetrability
 1888,Scroll of Leaden Weapon
@@ -1806,8 +1806,8 @@
 1892,Scroll of Piercing Bane
 1893,Scroll of Piercing Lure
 1894,Scroll of Strengthen Lock
-1895,Scroll of Aura of Swift Killer Self
-1896,Scroll of Aura of Hermetic Link Self
+1895,Aura of Swift Killer Self
+1896,Aura of Hermetic Link Self
 1897,Scroll of Turn Blade
 1898,Scroll of Weaken Lock
 1899,Beachside
@@ -2651,16 +2651,16 @@
 2749,Scroll of Weakness Other IV
 2750,Scroll of Weakness Other V
 2751,Scroll of Weakness Other VI
-2752,Scroll of WillPower Other II
-2753,Scroll of WillPower Other III
-2754,Scroll of WillPower Other IV
-2755,Scroll of WillPower Other V
-2756,Scroll of WillPower Other VI
-2757,Scroll of WillPower Self II
-2758,Scroll of WillPower Self III
-2759,Scroll of WillPower Self IV
-2760,Scroll of WillPower Self V
-2761,Scroll of WillPower Self VI
+2752,Scroll of Willpower Other II
+2753,Scroll of Willpower Other III
+2754,Scroll of Willpower Other IV
+2755,Scroll of Willpower Other V
+2756,Scroll of Willpower Other VI
+2757,Scroll of Willpower Self II
+2758,Scroll of Willpower Self III
+2759,Scroll of Willpower Self IV
+2760,Scroll of Willpower Self V
+2761,Scroll of Willpower Self VI
 2762,Scroll of Acid Bane II
 2763,Scroll of Acid Bane III
 2764,Scroll of Acid Bane IV
@@ -2681,11 +2681,11 @@
 2779,Scroll of Blade Lure IV
 2780,Scroll of Blade Lure V
 2781,Scroll of Blade Lure VI
-2782,Scroll of Aura of Blood Drinker Self II
-2783,Scroll of Aura of Blood Drinker Self III
-2784,Scroll of Aura of Blood Drinker Self IV
-2785,Scroll of Aura of Blood Drinker Self V
-2786,Scroll of Aura of Blood Drinker Self VI
+2782,Aura of Blood Drinker Self II
+2783,Aura of Blood Drinker Self III
+2784,Aura of Blood Drinker Self IV
+2785,Aura of Blood Drinker Self V
+2786,Aura of Blood Drinker Self VI
 2787,Scroll of Blood Loather II
 2788,Scroll of Blood Loather III
 2789,Scroll of Blood Loather IV
@@ -2706,11 +2706,11 @@
 2804,Scroll of Brittlemail IV
 2805,Scroll of Brittlemail V
 2806,Scroll of Brittlemail VI
-2807,Scroll of Aura of Defender Self II
-2808,Scroll of Aura of Defender Self III
-2809,Scroll of Aura of Defender Self IV
-2810,Scroll of Aura of Defender Self V
-2811,Scroll of Aura of Defender Self VI
+2807,Aura of Defender Self II
+2808,Aura of Defender Self III
+2809,Aura of Defender Self IV
+2810,Aura of Defender Self V
+2811,Aura of Defender Self VI
 2812,Scroll of Flame Bane II
 2813,Scroll of Flame Bane III
 2814,Scroll of Flame Bane IV
@@ -2731,11 +2731,11 @@
 2829,Scroll of Frost Lure IV
 2830,Scroll of Frost Lure V
 2831,Scroll of Frost Lure VI
-2832,Scroll of Aura of Heartseeker Self II
-2833,Scroll of Aura of Heartseeker Self III
-2834,Scroll of Aura of Heartseeker Self IV
-2835,Scroll of Aura of Heartseeker Self V
-2836,Scroll of Aura of Heartseeker Self VI
+2832,Aura of Heartseeker Self II
+2833,Aura of Heartseeker Self III
+2834,Aura of Heartseeker Self IV
+2835,Aura of Heartseeker Self V
+2836,Aura of Heartseeker Self VI
 2837,Scroll of Hermetic Void II
 2838,Scroll of Hermetic Void III
 2839,Scroll of Hermetic Void IV
@@ -2781,17 +2781,17 @@
 2879,Scroll of Strengthen Lock IV
 2880,Scroll of Strengthen Lock V
 2881,Scroll of Strengthen Lock VI
-2882,Scroll of Aura of Swift Killer Self II
-2883,Scroll of Aura of Swift Killer Self III
-2884,Scroll of Aura of Swift Killer Self IV
-2885,Scroll of Aura of Swift Killer Self V
-2886,Scroll of Aura of Swift Killer Self VI
-2887,Scroll of Aura of Hermetic Link Self II
-2888,Scroll of Aura of Hermetic Link Self III
-2889,Scroll of Aura of Hermetic Link Self IV
+2882,Aura of Swift Killer Self II
+2883,Aura of Swift Killer Self III
+2884,Aura of Swift Killer Self IV
+2885,Aura of Swift Killer Self V
+2886,Aura of Swift Killer Self VI
+2887,Aura of Hermetic Link Self II
+2888,Aura of Hermetic Link Self III
+2889,Aura of Hermetic Link Self IV
 2890,Scroll of Drain Health Other II
-2891,Scroll of Aura of Hermetic Link Self V
-2892,Scroll of Aura of Hermetic Link Self VI
+2891,Aura of Hermetic Link Self V
+2892,Aura of Hermetic Link Self VI
 2893,Scroll of Turn Blade II
 2894,Scroll of Turn Blade III
 2895,Scroll of Turn Blade IV
@@ -4298,7 +4298,7 @@
 4421,Sarthagg's Jewels and Gems
 4422,The Roasted Shreth
 4423,General Supplies
-4424,The Scholar's Study	
+4424,"The Scholar's Study	"
 4425,Lytelthorpe
 4426,Dafrida the Tailor
 4427,Lytelthorpe Outpost
@@ -12133,7 +12133,7 @@
 12576,Al-Kasan Settlement
 12577,Aqalah
 12578,Ariake
-12579,Arida Butte
+12579,Samsur Butte Cottages
 12580,Arqasanti
 12581,Ayn Tayan
 12582,Bay of Sands
@@ -19727,17 +19727,17 @@
 20403,Scroll of Olthoi Bait
 20404,Scroll of Swordsman's Bane
 20405,Scroll of Swordsman Bait
-20406,Scroll of Infected Caress
+20406,Aura of Infected Caress
 20407,Scroll of Pacification
 20408,Scroll of Tusker's Bane
 20409,Scroll of Tusker Bait
 20410,Scroll of Tattercoat
-20411,Scroll of Cragstone's Will
+20411,Aura of Cragstone's Will
 20412,Scroll of Inferno's Bane
 20413,Scroll of Inferno Bait
 20414,Scroll of Gelidite's Bane
 20415,Scroll of Geledite Bait
-20416,Scroll of Elysa's Sight
+20416,Aura of Elysa's Sight
 20417,Scroll of Cabalastic Ostracism
 20418,Scroll of Brogard's Defiance
 20419,Scroll of Lugian's Speed
@@ -19747,8 +19747,8 @@
 20423,Scroll of Archer's Bane
 20424,Scroll of Archer Bait
 20425,Scroll of Fortified Lock
-20426,Scroll of Atlan's Alacrity
-20427,Scroll of Mystic's Blessing
+20426,Aura of Atlan's Alacrity
+20427,Aura of Mystic's Blessing
 20428,Scroll of Clouded Motives
 20429,Scroll of Vagabond's Gift
 20430,Scroll of Dissolving Vortex
@@ -23263,7 +23263,7 @@
 24589,Rkos the Armorer
 24590,Odvik the Inn Keeper
 24591,Aun Gunditealuan the Marksman
-24592,Dojiro Sangi the Grocer
+24592,Tyokai Renjiro the Grocer
 24593,Aun Oreilauri the Healer
 24594,Aun Amanaualuan the Elder Shaman
 24595,Thimrin Woodsetter
@@ -26364,20 +26364,20 @@
 27999,Phantasm
 28000,Mosswart Scavenger
 28001,Mosswart Scrounger
-28002,Scroll of Aura of Spirit Drinker Self
-28003,Scroll of Aura of Spirit Drinker Self II
-28004,Scroll of Aura of Spirit Drinker Self III
-28005,Scroll of Aura of Spirit Drinker Self IV
-28006,Scroll of Aura of Spirit Drinker Self V
-28007,Scroll of Aura of Spirit Drinker Self VI
-28008,Scroll of Infected Caress
+28002,Aura of Spirit Drinker Self
+28003,Aura of Spirit Drinker Self II
+28004,Aura of Spirit Drinker Self III
+28005,Aura of Spirit Drinker Self IV
+28006,Aura of Spirit Drinker Self V
+28007,Aura of Spirit Drinker Self VI
+28008,Aura of Infected Spirit Caress Scroll
 28009,Scroll of Spirit Loather
 28010,Scroll of Spirit Loather II
 28011,Scroll of Spirit Loather III
 28012,Scroll of Spirit Loather IV
 28013,Scroll of Spirit Loather V
 28014,Scroll of Spirit Loather VI
-28015,Scroll of Pacification
+28015,Scroll of Spirit Pacification
 28016,Tormented Attendant
 28017,Tormented Consort
 28018,Tormented Patriarch
@@ -29660,6 +29660,7 @@
 31362,Jacob's Axe
 31363,Axe Head Helm
 31364,Jacob Durstan
+31365,Farmer Kao
 31366,Decorative Ursuin Head
 31368,Farmer Kao's Shovel
 31372,A Farmer's Plea for Help
@@ -29874,6 +29875,9 @@
 31708,Hea Bone and Hide Shirt
 31709,Hea Kassoka
 31710,Hagra's Holdfast
+31715,Atlatl Dart
+31716,Quarrel
+31717,Arrow
 31720,Torn Journal Page - Page 1
 31721,Torn Journal Page - Page 2
 31722,Torn Journal Page - Page 3
@@ -29976,6 +29980,7 @@
 31866,Coronet
 31867,Diadem
 31868,Signet Crown
+31869,Social Manager
 31871,Watery Token
 31872,Watcher Token
 31874,Fire Golem
@@ -30080,6 +30085,7 @@
 32022,Offering to Xik Minru
 32023,Offering to Xik Minru
 32024,Offering to Xik Minru
+32025,Shadow Stalker Title Token
 32026,Black Marrow Reliquary
 32027,Black Marrow Reliquary
 32028,Black Marrow Reliquary
@@ -30120,6 +30126,8 @@
 32081,Redspire Portal Gem
 32083,Instructions
 32084,Enrico di Bellenesse
+32085,Arcanum Refurbisher
+32086,Refurbisher's Tally
 32087,Unstable Portal
 32104,Breached Hive
 32107,Aun Ruperea
@@ -30378,7 +30386,19 @@
 32557,Surface Portal
 32559,Blackmoor Helm
 32561,Bromord Morresten
+32562,Yanshi
+32564,Shrine to Xao Wu
 32565,Memorial Sword of Lost Light
+32574,PKL Arena
+32575,PK Arena
+32576,PK Arena
+32577,PK Arena
+32578,PK Arena
+32579,PK Arena
+32580,PKL Arena
+32581,PKL Arena
+32582,PKL Arena
+32583,PKL Arena
 32584,Repository
 32586,Shriveled Lump
 32587,Instructions
@@ -30388,12 +30408,19 @@
 32593,False Morel Thrungus
 32595,Fiun Layeel
 32596,Ruschk Camp Leader
+32600,Shadowfire Isparian Sword
 32615,Necklace of the Elemental Adepts
 32618,Royal Guard Qumasha
 32623,Viamontian Esper Mine
 32628,Hashina
 32630,Whispering Blade Gloves
 32637,Shield of Elysa's Royal Guard
+32638,Shadowfire Isparian Axe
+32641,Shadowfire Isparian Claw
+32643,Shadowfire Isparian Dagger
+32644,Shadowfire Isparian Mace
+32645,Shadowfire Isparian Spear
+32646,Shadowfire Isparian Staff
 32648,Sickle
 32650,Lieutenant Rothe
 32651,Shadowfire Stone
@@ -30509,6 +30536,9 @@
 32848,Lore of the Dark Spiral
 32849,Tethana Manifesto
 32852,Blade of the Realm
+32923,Barbaric Mukkir Nest-lord
+32924,Mukkir Nest Portal Gem
+32925,Barbaric Mukkir Nest-lord's Head
 32927,White Rabbit Girth
 32928,Rabbit Hutch
 32929,Dusk Rabbit
@@ -30526,6 +30556,7 @@
 32943,Decanter of Nullified Essence
 32944,Glyph of Alteration
 32945,Prismatic Glyph
+32946,Pyreal Glyph
 32947,Child of Acid
 32948,Child of Fire
 32949,Child of Frost
@@ -30732,6 +30763,7 @@
 33517,Surface
 33522,Skittering Mukkir
 33527,Lightning Bolt
+33531,Shadow Eddy
 33536,Dark Crystal Spire
 33538,Fanatical Mukkir Ward Guardian
 33539,Decaying Ruschk Laktar
@@ -30952,7 +30984,9 @@
 33991,Composite Bow with Fine Handle
 33993,Composite Crossbow with Superb Handle
 33996,Composite Bow with Exquisite Handle
+33997,Composite Bow with Handle
 33998,Composite Crossbow with Exquisite Handle
+33999,Composite Crossbow with Handle
 34000,Old Scratchy
 34001,Cartilage of Old Scratchy
 34002,Mi Krau-Li's Remastered Jitte
@@ -31402,10 +31436,12 @@
 34971,Falatacot Blood Prophetess
 34972,Falatacot Blood Elder
 34973,Falatacot Consort
+34974,Ancient Counselor
 34975,Laisu Sclavus
 34976,Infused Empyrean Blood Golem
 34977,Infused Blood Golem
 34978,Tortured Spirit
+34979,Thralled Guruk Reaper
 34980,Thralled Guruk Spore Seeker
 34991,Opal Repugnant Staff
 34993,Channeling Bone Sword
@@ -31626,6 +31662,8 @@
 35487,Hurnmel the Smith
 35488,Skettek the Wanderer
 35489,Spectral Chill Arrow
+35491,Maelstrom of Souls Gem
+35492,Gem of Spectral Force
 35498,Chick
 35499,Chicken
 35500,Spectral Chill Arrow Bundle
@@ -31833,8 +31871,22 @@
 35972,Single Spine Grievver Spike Oil
 35976,Composite Atlatl with Handle
 35981,Scroll of Ancient Graveyard Recall
+35982,Aegis of the Golden Flame
+35983,Penumbral Terror
+35985,A Shadow of Black Ferah
+35986,A Shadow of Ler Rhan
+35987,Shadow Captain
+35988,Shadow Commander
+35989,Shadow Knight Hand
+35990,Penumbral Shadowmage
+35991,Kirienne Palacost
+35992,Scrap of Shadow Essence
+35993,Shadow Sorceress
 35994,Pulsating Bony Lump
+36007,Statue of Bael'Zharon, the Hopeslayer
 36008,Prodigal Shadow Child's Lair
+36011,Kirienne Palacost
+36012,Statue of Bael'Zharon, the Hopeslayer
 36013,Spectral Light Weapon Mastery Crystal
 36015,Spectral Missile Weapon Mastery Crystal
 36017,Spectral Finesse Weapon Mastery Crystal
@@ -32016,6 +32068,7 @@
 36502,Oubliette
 36503,Lair of The Homunculus
 36504,Niffis Fighting Pits
+36505,Mukkir Nest Portal Gem
 36506,Resting Place
 36507,Son of Pooky's Den
 36509,Greater Gem of Knowledge
@@ -32087,6 +32140,8 @@
 36626,Foolproof
 36627,Foolproof
 36628,Foolproof
+36631,Magic Defense Weapon Augmentation
+36633,Missile Defense Weapon Augmentation
 36634,Foolproof
 36635,Foolproof
 36636,Foolproof
@@ -32316,6 +32371,7 @@
 36969,Virindi Artificer
 36970,Virindi Artificer
 36972,Virindi Protector
+36977,Aerbax Beam
 37027,East Gate Stone
 37033,North Gate Stone
 37041,West Gate Stone
@@ -32824,8 +32880,16 @@
 38024,Strange Pillar
 38025,Summoning Stone
 38026,Summoning Stone
+38029,Elite Zharalim Agent
+38030,Falatacot Blood Prophetess
 38034,Roderick
+38035,Falatacot Herald
+38036,Falatacot Warden Statue
+38037,Falatacot Warden Statue
+38038,Corpse of Elite Zharalim Agent
 38039,Statue
+38042,Falatacot Blood Prophetess Trinket
+38043,Diplomatic Message from Harlune
 38044,Green Mire Yoroi Cuirass
 38045,Hiro Ishigame
 38046,Green Mire Yoroi Cuirass
@@ -32873,8 +32937,18 @@
 38162,Tattered Putrid Moarsman Ritual
 38163,Tattered Desolation Moarsman Ritual
 38172,The Creation of Blighted Moarsmen
+38176,Blighted Hoary Armoredillo
+38177,Blighted Oak Golem
+38178,Blighted Pyreal Golem
+38179,Blighted Sotiris Hollow Minion
 38180,Blighted Bane Grievver
+38181,Blighted Dire Ursuin
+38206,Linvak Node Golem
+38207,Obsidian Node Golem
+38211,Laedron the Geomancer
+38215,Aerlinthe Node Golem
 38222,Blighted Mana Crystal
+38226,A Field Guide to Tainted Nodes
 38227,Shishalti bint Jaffa
 38228,Celestial Hand Commendation Ribbon
 38229,Eldrytch Web Commendation Ribbon
@@ -33448,6 +33522,11 @@
 39111,Rock Candy Knath
 39112,Festival Shirt
 39287,Golden Key
+39293,Aerlinthe Gatestone
+39309,A'mun Gatestone
+39310,Esper Gatestone
+39312,Linvak Gatestone
+39313,Obsidian Gatestone
 39328,Enchanted Mana Phial
 39329,Enchanted Mana Phial Pea
 39330,Alchemical Phials and Mana Forges, Latest Discoveries
@@ -33461,6 +33540,9 @@
 39338,Mana Phial of Blade Vulnerability
 39409,Patriarch's Valley
 39467,Tchk'Tain the Tender's Severed Head
+39474,Narthran Two-Blades
+39475,Hiro Sawatogo
+39476,Marek al-Evv
 39477,Betting Cage Door
 39483,Pet Polar Ursuin Cub
 39508,Polar Ursuin Lair
@@ -33581,6 +33663,7 @@
 39980,Ceremonial Tunic
 39981,Protective Leggings
 39982,Protective Tunic
+39983,Rand, Game Hunter
 39984,Adventurer's Token
 40088,Empowered Sword of Lost Light
 40091,Crystal
@@ -33755,7 +33838,10 @@
 40605,Armor Upgrade Kit Containment Gem
 40606,Armor Upgrade Kit Containment Gem
 40607,Armor Upgrade Kit Containment Gem
+40614,Acid Spadone
+40615,Lightning Spadone
 40616,Fire Spadone
+40617,Frost Spadone
 40618,Spadone
 40619,Acid Spadone
 40620,Lightning Spadone
@@ -34574,6 +34660,10 @@
 42517,Coalesced Mana
 42518,Coalesced Mana
 42519,Cara the Apprentice
+42530,Tulip
+42531,Tulip
+42540,Tulip
+42541,Tulip
 42601,Kaytin
 42605,Gear Hunter
 42606,Gear Hunter Mage
@@ -34593,10 +34683,12 @@
 42664,Spear of Lost Truths
 42665,Itaka's Naginata
 42666,Decapitator's Blade
+42667,Top Hat
 42668,Intense Corroding Crystalline Wisp
 42670,Shivering Crystalline Wisp
 42671,Intense Incalescent Crystalline Wisp
 42672,Door
+42709,Royal Bouquet
 42710,Aligned Mana Stone
 42711,Empyrean Facility Upper Level
 42712,Empyrean Facility Lower Level
@@ -34614,6 +34706,10 @@
 42729,Attuned Essence Gem
 42731,Ayaname Chiyoko
 42734,Sir Draithon
+42736,Tailor's Apprentice
+42737,Tailor's Apprentice
+42738,Tailor's Apprentice
+42739,Tailor's Apprentice
 42747,Yanshi
 42749,Haebrean Breastplate
 42750,Haebrean Gauntlets
@@ -34796,9 +34892,37 @@
 42941,Royal Guard
 42945,Royal Guard
 42948,Well-Balanced Lugian Greataxe
+42955,Wedding Fireworks Launcher
 42956,Trap Floor Portal
+42957,Hoshino Kiri
+42958,First Enchanted Candle
+42959,Second Enchanted Candle
+42960,Third Enchanted Candle
+42961,Rock Pile
+42962,Rock Pile
+42963,Rock Pile
+42964,Rock Pile
+42965,Rock Pile
+42966,Rock Pile
+42967,Rock Pile
+42968,Rock Pile
+42969,Rock Pile
+42970,Rock Pile
+42971,Rock Pile
+42972,Rock Pile
+42973,Rock Pile
+42974,Rock Pile
+42975,Rock Pile
+42976,Rock Pile
+42977,Game Coordinator
 42979,Core Plating Integrator
+42981,Yuudai
+42982,Mesalina
+42983,Aleesa Stateler
 42984,Lord Dargeth
+42987,Messenger for The Stranger
+42988,Aleesa's Longbow
+42989,Aleesa's Longbow
 42991,Timaru
 42992,Freehold
 42993,Oolatonga's Refuge
@@ -34813,6 +34937,8 @@
 43002,Oolutanga's Refuge
 43003,Danby's Outpost
 43004,Freehold Portal
+43005,New Aluvian Champion
+43006,New Aluvian War Mage Champion
 43007,Royal Guard
 43008,Royal Guard
 43009,Royal Guard
@@ -34865,7 +34991,17 @@
 43067,Portal to Town Network
 43068,Knorr Academy Helm
 43069,Guardian Statue
+43070,Empyrean Portalspace Stabilizer
 43072,Emissary of Asheron
+43073,Emissary of Asheron
+43074,Emissary of Asheron
+43075,An Empyrean device
+43076,An Empyrean device
+43079,Apostate Rift Aggressor
+43081,Apostate Virindi Aggressor
+43082,Apostate Virindi Aggressor
+43083,Apostate Virindi Aggressor
+43084,Brightly Glowing Data Crystal
 43118,Forgotten Tunnels
 43119,Forgotten Tunnels
 43120,Forgotten Tunnels
@@ -35266,6 +35402,7 @@
 43855,Panumbris Shadow
 43856,Panumbris Shadow
 43861,Isin Dule
+43862,Umbral Guard
 43865,The Shadows
 43882,Door
 43883,Door
@@ -35340,6 +35477,7 @@
 44024,Bak'tshay Guard
 44025,Bak'tshay Servant
 44026,Bak'tshay Servant
+44027,Bak'tshay Slave
 44028,Bak'tshay Servant
 44029,Bak'tshay Soldier
 44030,Bak'tshay Soldier
@@ -35671,6 +35809,7 @@
 44583,Contract for Menhir Research
 44584,Contract for Kill: Tenebrous Rifts
 44585,Contract for Kill: Umbral Rifts
+44586,Contract for Harlune's Diplomacy
 44587,Contract for Saving Asheron
 44588,Celestial Hand Buckler Cover
 44589,Eldrytch Web Buckler Cover
@@ -35952,6 +36091,11 @@
 45031,Hoary Mattekar Over-robe
 45032,Hoory Mattekar Over-robe
 45033,Hoory Mattekar Over-robe Crate
+45099,Epee
+45100,Acid Epee
+45101,Lightning Epee
+45102,Flaming Epee
+45103,Frost Epee
 45104,Acid Rapier
 45105,Lightning Rapier
 45106,Flaming Rapier
@@ -36170,11 +36314,63 @@
 45413,Lightning Spada
 45414,Flaming Spada
 45415,Frost Spada
+45436,Bearded Axe of Souia-Vey
+45437,Canfield Cleaver
+45438,Count Renari's Equalizer
 45439,Smite
+45440,Tusked Axe of Ayan Baqur
+45441,Black Thistle
+45442,Moriharu's Kitchen Knife
+45443,Pitfighter's Edge
+45444,Ridgeback Dagger
+45445,Zharalim Crookblade
+45446,Baton of Tirethas
+45447,Dripping Death
+45448,Star of Tukal
+45449,Subjugator
+45450,Thunderhead
+45451,Champion's Demise
+45452,Pillar of Fearlessness
+45453,Squire's Glaive
+45454,Star of Gharu'n
+45455,Tri-Blade Spear
+45456,Staff of All Aspects
+45457,Death's Grip Staff
+45458,Staff of Fettered Souls
+45459,Spirit Shifting Staff
+45460,Staff of Tendrils
 45461,Brador's Frozen Eye
+45462,Defiler of Milantos
+45463,Desert Wyrm
 45464,Guardian of Pwyll
+45465,Morrigan's Vanity
+45466,Fist of Three Principles
+45467,Hevelio's Half-Moon
+45468,Malachite Slasher
+45469,Skullpuncher
+45470,Steel Butterfly
+45471,Sword Mastery
+45472,Axe Mastery
+45473,Bow Mastery
+45474,Crossbow Mastery
+45475,Dagger Mastery
+45476,Mace Mastery
+45477,Magic Mastery
+45478,Spears Mastery
+45479,Staves Mastery
+45480,Thrown Weapons Mastery
+45481,Two Handed Combat Mastery
+45482,Unarmed Combat Mastery
+45485,Melee Rare Vendor
 45486,Blackened House Mhoire Cloak
+45488,Some Changes for February 2012
+45489,Free Weapon Vendor
+45490,Emissary of Asheron
+45491,Quest Weapon Coin
+45492,Emissary of Asheron
+45493,Rare Coin
 45494,Imbue Swap Coin
+45495,Emissary of Asheron
 45501,Weapon Imbue Vendor
 45502,Foolproof Aquamarine Gem
 45503,Foolproof Black Garnet Gem
@@ -36829,6 +37025,7 @@
 46660,Samurai Gatekeeper
 46661,Claw Master Gatekeeper
 46662,Bushi Gatekeeper
+46672,Gauntlet Challenge Bell
 46675,Surface
 46678,Lieutenant Aurin
 46679,Sergeant Trebuus
@@ -36840,8 +37037,19 @@
 46686,Lieutenant Takamaki
 46687,Spectral Voidmage
 46688,Spectral Voidmage
+46690,Guruk Grunt
+46694,Tumerok Savage
+46695,Tachi
+46696,Raging Moar
+46700,Crazed Olthoi
+46702,Vibrant Shadow
+46703,Acid Nekode
+46705,Fiesty Mite
 46707,Corrupted Aegis
+46710,Torment Wisp
 46712,Spectral Frost Nodachi
+46715,Rock
+46716,Lugian Launcher
 46729,Tanada Neophyte's Mask
 46735,Kousha
 46743,Contract for Stipend: Celestial Hand
@@ -36872,48 +37080,48 @@
 46839,Inscription of Aura of Blood Drinker Other
 46840,Inscription of Aura of Defender Other
 46842,Introspective Quill of Objectification
-46843,Scroll of Aura of Blood Drinker Other
-46844,Scroll of Aura of Defender Other
-46845,Scroll of Aura of Heartseeker Other
-46846,Scroll of Aura of Spirit Drinker Other
-46847,Scroll of Aura of Swift Killer Other
-46848,Scroll of Aura of Hermetic Link Other
-46849,Scroll of Aura of Blood Drinker Other V
-46850,Scroll of Aura of Defender Other V
-46851,Scroll of Aura of Heartseeker Other V
-46852,Scroll of Aura of Hermetic Link Other V
-46853,Scroll of Aura of Spirit Drinker Other V
-46854,Scroll of Aura of Swift Killer Other V
-46855,Scroll of Aura of Blood Drinker Other VI
-46856,Scroll of Aura of Defender Other VI
-46857,Scroll of Aura of Heartseeker Other VI
-46858,Scroll of Aura of Hermetic Link Other VI
-46859,Scroll of Aura of Spirit Drinker Other VI
-46860,Scroll of Aura of Swift Killer Other VI
-46861,Scroll of Aura of Blood Drinker Other III
-46862,Scroll of Aura of Defender Other III
-46863,Scroll of Aura of Heartseeker Other III
-46864,Scroll of Aura of Hermetic Link Other III
-46865,Scroll of Aura of Spirit Drinker Other III
-46866,Scroll of Aura of Swift Killer Other III
-46867,Scroll of Aura of Blood Drinker Other IV
-46868,Scroll of Aura of Defender Other IV
-46869,Scroll of Aura of Heartseeker Other IV
-46870,Scroll of Aura of Hermetic Link Other IV
-46871,Scroll of Aura of Spirit Drinker Other IV
-46872,Scroll of Aura of Swift Killer Other IV
-46873,Scroll of Aura of Blood Drinker Other II
-46874,Scroll of Aura of Defender Other II
-46875,Scroll of Aura of Heartseeker Other II
-46876,Scroll of Aura of Hermetic Link Other II
-46877,Scroll of Aura of Spirit Drinker Other II
-46878,Scroll of Aura of Swift Killer Other II
-46879,Scroll of Aura of Blood Drinker Other VII
-46880,Scroll of Aura of Defender Other VII
-46881,Scroll of Aura of Heartseeker Other VII
-46882,Scroll of Aura of Spirit Drinker Other VII
-46883,Scroll of Aura of Swift Killer Other VII
-46884,Scroll of Aura of Hermetic Link Other VII
+46843,Aura of Blood Drinker Other
+46844,Aura of Defender Other
+46845,Aura of Heartseeker Other
+46846,Aura of Spirit Drinker Other
+46847,Aura of Swift Killer Other
+46848,Aura of Hermetic Link Other
+46849,Aura of Blood Drinker Other V
+46850,Aura of Defender Other V
+46851,Aura of Heartseeker Other V
+46852,Aura of Hermetic Link Other V
+46853,Aura of Spirit Drinker Other V
+46854,Aura of Swift Killer Other V
+46855,Aura of Blood Drinker Other VI
+46856,Aura of Defender Other VI
+46857,Aura of Heartseeker Other VI
+46858,Aura of Hermetic Link Other VI
+46859,Aura of Spirit Drinker Other VI
+46860,Aura of Swift Killer Other VI
+46861,Aura of Blood Drinker Other III
+46862,Aura of Defender Other III
+46863,Aura of Heartseeker Other III
+46864,Aura of Hermetic Link Other III
+46865,Aura of Spirit Drinker Other III
+46866,Aura of Swift Killer Other III
+46867,Aura of Blood Drinker Other IV
+46868,Aura of Defender Other IV
+46869,Aura of Heartseeker Other IV
+46870,Aura of Hermetic Link Other IV
+46871,Aura of Spirit Drinker Other IV
+46872,Aura of Swift Killer Other IV
+46873,Aura of Blood Drinker Other II
+46874,Aura of Defender Other II
+46875,Aura of Heartseeker Other II
+46876,Aura of Hermetic Link Other II
+46877,Aura of Spirit Drinker Other II
+46878,Aura of Swift Killer Other II
+46879,Aura of Blood Drinker Other VII
+46880,Aura of Defender Other VII
+46881,Aura of Heartseeker Other VII
+46882,Aura of Spirit Drinker Other VII
+46883,Aura of Swift Killer Other VII
+46884,Aura of Hermetic Link Other VII
 46885,Lugian Miner
 46889,Shorikan
 46906,Contract for Tanada Intercept
@@ -36927,11 +37135,26 @@
 46926,Prismatic Devastation
 46953,Proving Grounds Uber
 46955,Proving Grounds Uber
+47012,Delicate Desert Flower
+47020,Kaltus
+47043,Falatacot Zealot
+47044,Khopesh
+47045,Izexi
+47046,Sickle
+47047,Abducting Crystal
+47048,Conveying Crystal
+47049,Ensnared Soul
+47050,Door
+47051,Door
 47052,Fahneph
+47053,Xilkvar
+47054,Door
 47055,Spirit of Izexi Gem
 47068,Arrow
 47071,Arrow
 47072,Arrow
+47152,Ancient Falatacot Symbol
+47153,Tainted Dust Golem
 47154,Surface
 47155,Foundry of Izexi
 47156,A'nekshay Gem of Knowledge
@@ -36944,6 +37167,7 @@
 47163,Contract for Nanjou Stockade
 47168,Snow Tuskie Kennel
 47170,Pet Snow Tuskie
+47172,Adrenkus
 47179,Tiatus Smithy
 47186,Tortured Servant
 47187,Khopesh
@@ -36956,6 +37180,7 @@
 47194,Ingot
 47195,Ingot
 47196,Translated Orders for Zrikux
+47198,Bloodroot Vine
 47199,Forging Gloves
 47200,Door
 47201,Door
@@ -36967,6 +37192,7 @@
 47210,Tiatus Overseer
 47211,Door
 47216,Ensorcelled Weapon
+47217,Ensorcelled Weapon
 47218,Ensorcelled Weapon
 47219,Ensorcelled Sword
 47220,Ensorcelled Dagger
@@ -36974,6 +37200,7 @@
 47222,Ensorcelled Mace
 47223,Ensorcelled Khopesh
 47225,Ensorcelled Weapon
+47226,Ensorcelled Weapon
 47227,Ensorcelled Mace
 47229,Acid Board with Nail
 47233,Acid Board with Nail
@@ -37018,6 +37245,7 @@
 47731,Spear
 47735,Spear
 47751,Lightning Spear
+47837,Enchanted Seedling
 47840,Colton Reeyan's Sanctuary
 47852,Arbalest
 47854,Acid Crossbow
@@ -37129,6 +37357,7 @@
 48632,Tursh's Spear
 48633,Glacial Blade
 48707,Mug of Warm Cider
+48710,Pulsating Spirit-trap Gem
 48711,Scorching Flame
 48712,Char Golem
 48713,Blazing Crystal
@@ -37179,6 +37408,9 @@
 48778,Count Phainor's Tomb
 48779,Contract for Lost Lore
 48780,Contract for Sisters of Light
+48781,Contract for First Sister
+48782,Contract for Second Sister
+48783,Contract for Third Sister
 48794,Grularr Wa'ydo
 48795,Grularr Wa'ydo
 48796,Grularr Wa'ydo
@@ -37227,6 +37459,8 @@
 48901,Surface
 48907,Nekshla
 48908,Shattered Legendary Key
+48913,Chorizite Chest
+48914,Legendary Key
 48918,Legendary Token
 48919,Legendary Robe of Utter Darkness
 48920,Lieutenant Roothe
@@ -37241,6 +37475,9 @@
 48931,Iron Golem Sekkou
 48933,Surface
 48937,Calitoth
+48938,Legendary Seed of Mornings
+48939,Legendary Seed of Harvests
+48940,Legendary Seed of Twilight
 48941,Burning Sands Golem Heart
 48942,Fire Skeleton Minion Essence (50)
 48943,Skeleton
@@ -37821,10 +38058,40 @@
 49566,Contract for Ritual Investigation
 49567,Contract for Ritual Disruption
 49569,Contract for Buried Alive
+49571,Bak'tshay Keeper
+49572,Bak'tshay Keeper
+49573,Bak'tshay Keeper
+49574,Bak'tshay Keeper
+49575,Bak'tshay Lackey
+49576,Mu-miyah Recluse
+49577,Signet Fragment
+49578,Signet Fragment
+49579,Signet Fragment
+49580,Signet Fragment
+49581,Combined Signet Fragment
+49582,Combined Signet Fragment
+49583,Completed Signet
+49584,El'Yst Maggann
+49585,Door
+49586,Infectious Rat
+49587,Door
+49588,Door
+49589,Door
+49590,Lever
+49591,Lever
+49592,Lever
 49594,Lever
+49596,Scrivener of War Magic
+49597,Scrivener of Life Magic
 49598,Scrivener of Creature Magic
+49599,Scrivener of Item Magic
 49600,Ivory Crafter
+49601,Leather Crafter
+49602,Collector
+49603,Apprentice Cook
 49604,Agent of the Arcanum
+49605,Town Crier
+49606,Uziz
 49607,Door
 49608,Virindi Edifice
 49609,Surface
@@ -37862,6 +38129,7 @@
 49654,Waham ibn Fadyat the Shopkeeper
 49655,Tailor Istima al-Mahat
 49656,Ulib ibn Ghunir the Weaponsmith
+49765,Contract for Graverobber
 49766,Contract for Deconstruction
 49767,Contract for Escape
 49771,Contract for Uziz Abductions
@@ -37904,9 +38172,11 @@
 49929,Prismatic Shadow Sollerets
 49933,Prismatic Shadow Tassets
 50000,Innate Renewal
+51095,Metal Pipe
 51154,Alean the Steel Forger
 51155,Koga Hideki
 51156,Jibril ibn Rashid
+51157,Tuning Fork
 51208,Virindi Delegate
 51211,Hive Eviscerator Pincer
 51213,Olthoi Hive Warrior
@@ -37920,6 +38190,7 @@
 51226,Contract for Golem Hunters: Coral Golem Viceroy
 51227,Contract for Golem Hunters: Platinum Golem Mountain King
 51250,West Fork Dam Hive
+51253,Chiming Portal
 51266,Pile of Gearknight Parts
 51268,Ladice
 51269,Edweena
@@ -38335,20 +38606,47 @@
 52049,Orange Portal
 52051,Yellow Portal
 52055,Orange Portal
+52056,White Portal
 52062,White Portal
 52070,Red Portal
+52071,Blue Lever
+52072,Green Lever
+52074,Orange Lever
+52075,White Lever
+52076,Yellow Lever
+52077,Rynthid Assessment Crystal
+52078,Rynthid Assessment Crystal
 52079,Assessment Chamber
+52084,Training Dummy
+52085,Training Dummy
+52086,Training Dummy
+52088,Red Lever
+52094,Door I
+52095,Door II
+52096,Door III
+52097,Key I
+52098,Key II
+52099,Key III
+52111,Door
+52112,Troublesome Mite
+52113,Troublesome Mite
+52114,Troublesome Mite
+52128,Electric Floor
+52131,Enraged Moar
 52139,Varinia
 52142,Round Shield
 52171,Contract for End of Days
 52172,Contract for Lugian Assault
 52173,Surface
+52175,Thunder Turkey Leg
+52181,Farmer Ar'Oyd
 52189,Token of the Pumpkin Lord
 52190,Casting Jack o' Lantern
 52191,Casting Jack o' Lantern
 52192,Casting Jack o' Lantern
 52193,Mukkir Wings
 52201,Accursed Scarecrow Mask
+52213,Bak'tshay Lackey
 52214,Sanctuary of the Recluse
 52215,Surface
 52216,Surface
@@ -38359,6 +38657,41 @@
 52221,Frozen Recess
 52222,Charged Niche
 52223,Stinging Corner
+52224,Bak'tshay Keeper
+52225,Fire Energy
+52227,Door
+52228,Door
+52229,Door
+52230,Door
+52231,Bak'tshay Keeper
+52232,Frost Energy
+52233,Bak'tshay Keeper
+52234,Lightning Energy
+52235,Bak'tshay Keeper
+52236,Acid Energy
+52240,Burning Sands Guardian
+52241,Chilled Key
+52242,Door
+52243,Door
+52244,Mu-miyah Magus
+52247,Idol of the Recluse
+52248,Lingering Spirit of the Recluse
+52250,Door
+52251,Door
+52252,Door
+52253,Altar
+52254,Sarcophagus of the Recluse
+52257,Door
+52258,Door
+52259,Altar
+52260,Pillar of Frost
+52261,Pillar of Lightning
+52262,Pillar of Acid
+52263,Pillar of Fire
+52264,Idol of the Recluse
+52265,Celestial Hand Warrior
+52266,Celestial Hand Officer
+52267,Celestial Hand Warrior
 52271,Shadowy Pillar
 52272,Royal Guard
 52273,Shadow Flyer
@@ -38414,6 +38747,9 @@
 52585,A'nekshen Storm Reaver
 52587,A'nekshen Thorn Dancer
 52589,A'nekshen Thorn Reaver
+52593,Gauntlet Stage 2
+52610,Gauntlet Stage 3
+52611,Gauntlet Stage 4
 52616,Brier Wasp
 52617,Brier Wasp Swarm
 52618,Brier Wasp Hive
@@ -38427,17 +38763,61 @@
 52633,A'nekshen Stormwood Spear
 52635,Thorn Dagger
 52636,Thorn Dagger
+52655,Gauntlet Stage 6
+52656,Gauntlet Stage 7
+52658,Gauntlet Stage 8
+52659,Gauntlet Stage 9
 52678,Gauntlet Stage 1
 52700,Honeyed Life Mead
 52701,Honeyed Mana Mead
 52703,Honeyed Vigor Mead
+52705,Wreen
+52706,Vellum
+52707,Zabien
+52708,Kite Shield
+52709,Stinging Armoredillo
+52710,Vicious Remoran Sapper
+52711,Wight Sage
+52712,Ruuk Ranger
+52714,Hollow Pawn
+52715,Corrosive Archer
+52716,Virindi Rival
+52718,Tracking Fireball
+52721,Tundra Tusker
+52724,Tusker Heaver
+52725,Frozen Coconut
+52726,Defensive Crystal
+52727,Defensive Crystal
 52732,Storming Portal Axe
 52733,Vortex Thorn
+52734,Gauntlet Backpack
+52735,Gauntlet Backpack
+52736,Gauntlet Backpack
+52737,Gauntlet Health Kit
+52738,Gauntlet Mana Kit
+52739,Gauntlet Stamina Kit
+52740,Gem of Brilliance
+52741,Slicing Society Orb
+52742,Crushing Society Orb
+52743,Piercing Society Orb
+52744,Nether Society Orb
+52745,Exquisite Casino Key
+52748,Gauntlet Gem of Knowledge
+52749,Gauntlet Gem of Vast Knowledge
+52750,Gauntlet Gem of Luminance
 52751,Spectral Item Tinkering Mastery Crystal
 52752,Spectral Armor Tinkering Mastery Crystal
 52753,Spectral Weapon Tinkering Mastery Crystal
 52754,Spectral Magic Item Tinkering Mastery Crystal
+52756,Nature's Wrath Amplification
+52757,Gauntlet Brutality Amplification
+52758,Gauntlet Defense Amplification
+52775,Blade Lieutenant
+52776,Blade Captain
+52777,Blade Champion
 52778,Grievver Darter
+52779,Pike Grievver
+52780,Mukkir Predator
 52781,Gauntlet Treasure Key
 52782,Gauntlet Treasure Key
 52783,Gauntlet Treasure Key
@@ -38452,9 +38832,34 @@
 52792,Gauntlet Weapon Chest
 52793,Gauntlet Magic Chest
 52794,Gauntlet Vault
+52795,Gauntlet Ticket Stub
+52796,Gauntlet Ticket
+52797,Gauntlet Coin
+52798,Gauntlet Leggings
+52799,Gauntlet Tunic
+52800,Master of the Gauntlet
+52801,Master of the Gauntlet
+52802,Master of the Gauntlet
+52803,Rynthid Portal Gem
+52805,Paradox-touched Olthoi Portal Gem
+52807,Neftet Portal Gem
+52809,Mhoire Forge Portal Gem
+52810,Gear Knight Invasion Area Portal Gem
+52812,Hoshino Fortress Portal Gem
+52815,Holcha's Head
+52817,Helm of Tremb'Orh
+52856,Gauntlet Ticket Vendor
+52857,Gauntlet Ticket Vendor
+52858,Gauntlet Ticket Vendor
+52859,Gauntlet Arena One Statue
+52871,Lair of the Gromnus Champion
+52872,Lair of Holcha
+52873,Lair of Tremb'Orh
+52876,Gromnus Eye
 52904,Gauntlet Stage 2
 52905,Gauntlet Stage 3
 52906,Gauntlet Stage 4
+52907,Gauntlet Stage 5
 52908,Gauntlet Stage 6
 52909,Gauntlet Stage 7
 52910,Gauntlet Stage 8
@@ -38464,8 +38869,21 @@
 52914,Gauntlet Stage 12
 52915,Gauntlet Exit
 52916,Gauntlet Stage 1
+52917,Gauntlet Stage 2
+52918,Gauntlet Stage 3
+52919,Gauntlet Stage 4
+52920,Gauntlet Stage 5
 52921,Gauntlet Stage 6
+52922,Gauntlet Stage 7
+52923,Gauntlet Stage 8
+52924,Gauntlet Stage 9
+52925,Gauntlet Stage 10
+52926,Gauntlet Stage 11
+52927,Gauntlet Stage 12
 52928,Gauntlet Exit
+52960,Radiant Blood Officer
+52961,Radiant Blood Warrior
+52962,Radiant Blood Warrior
 52968,Infused Amber Shard
 52969,Corrupted Amber Shard
 52970,Viridian Essence
@@ -38478,6 +38896,9 @@
 52991,Worshipper of Bael'Zharon
 52992,Worshipper of Bael'Zharon
 53011,Amber Crystal
+53012,Gauntlet Arena Two Statue
+53014,Thunder Poult
+53015,Thunder Turkey
 53016,Corrupted Amber: Bracers of the Corrupted Heart.
 53017,Corrupted Amber: Gauntlets of the Corrupted Heart.
 53018,Corrupted Amber: Helm of the Corrupted Heart.
@@ -38487,6 +38908,7 @@
 53022,Corrupted Amber: Girth of the Corrupted Soul.
 53023,Corrupted Amber: Greaves of the Corrupted Soul.
 53024,Corrupted Amber: Tassets of the Corrupted Soul.
+53025,Gauntlet Arena
 53026,Fiery Remains
 53033,Ancient Statue of the Viridian Rise
 53034,Ancient Statue of the Viridian Rise
@@ -38532,6 +38954,7 @@
 53114,Ancient Statue of the Viridian Rise
 53116,Viridian Portal
 53130,Ancient Statue of the Viridian Rise
+53136,Gauntlet Arena One Statue
 53145,Luminous Amber of the 1st Tier Paragon
 53146,Luminous Amber of the 2nd Tier Paragon
 53147,Guardian of Ash
@@ -38599,6 +39022,8 @@
 53243,Ancient Statue of the Viridian Root
 53245,Viridian Portal
 53246,Portal Out to Viridian Chasm
+53249,Gauntlet Arena
+53250,Gauntlet Arena
 53263,Ancient Statue of the Viridian Root
 53264,Ancient Statue of the Viridian Root
 53265,Ancient Statue of the Viridian Root
@@ -38614,6 +39039,13 @@
 53280,Brellegia
 53281,Aangesilus
 53283,Swift
+53284,Lair of the Gromnus Champion
+53285,Lair of the Gromnus Champion
+53286,Lair of Tremb'Orh
+53287,Lair of Tremb'Orh
+53288,Lair of Holcha
+53289,Lair of Holcha
+53290,Ice Storm
 53293,Luminous Amber: Bracers of Thunderous Blows
 53294,Luminous Amber: Pauldrons of Thunderous Blows
 53295,Luminous Amber: Greaves of the Tower
@@ -38665,6 +39097,10 @@
 53347,Emerald Hunting Gromnie
 53348,Vermilion War Gromnie
 53350,Corrupting Thorn Gromnie
+53352,Surface
+53353,Wishbone
+53354,Mutilated Turkey Feather
+53356,Farmer's Basement Portal Gem
 53357,Lightning Bolt
 53360,Essence of Zerzelikyr
 53362,Essence of Norshuntyr
@@ -38681,9 +39117,15 @@
 53383,Professor of Item Magic
 53384,Professor of Life Magic
 53385,Professor of Void Magic
+53386,Gauntlet Stage 5
 53406,Ring Spells Certificate
 53407,Wall Spells Certificate
+53408,Celestial Hand Gauntlet Writ
+53409,Eldrytch Web Gauntlet Writ
+53410,Radiant Blood Gauntlet Writ
+53411,Bracelet of Constitution
 53412,Font of Enlightenment and Rebirth
+53415,Horizon's Edge Amplification
 53440,Empowered Amber: Shield Reinforcement
 53441,Luminous Amber: Shield Fortification
 53445,Radiant Blood Gauntlet
@@ -38748,7 +39190,6 @@
 70030,Monster Pitcher Plant
 70031,Incomplete Journal - Pages 1-2
 70032,Incomplete Journal - Pages 1-3
-70033,Farmer Kao
 70034,Ruby of Crimson Night
 70035,Soldier
 70036,Soldier
@@ -40355,7 +40796,48 @@
 72415,Claude Arena 2 Booter Gen
 72416,Claude Arena 3 Booter Gen
 72417,Claude Arena 4 Booter Gen
+72418,Olthoi Hive Eviscerator
 72419,Olthoi Hive Eviscerator
+72420,Olthoi Hive Soldier
+72421,Olthoi Hive Piercer
+72422,Olthoi Hive Noble
+72423,Olthoi Hive Mutilator
+72424,Hive Olthoi Egg
+72425,Olthoi Hive Crawler
+72426,Hive Maggot Giant
+72427,Olthoi Hive Queen
+72428,Olthoi Hive Queen
+72429,Olthoi Hive Queen's Remains
+72430,Olthoi Hive Queen Carapace
+72431,Hive Queen Origins Gen
+72432,Hive Queen Grub Gen
+72433,Hive Queen Virindi Gen
+72434,Western Royal Hive
+72435,Origin Quarters
+72436,Grub Quarters
+72437,Master's Quarters
+72438,Portal
+72439,Queen's Treasury
+72440,Olthoi Hive Guardian
+72441,Reinforced Door
+72442,Surface
+72443,Guardian Soldier's Key
+72444,Virindi Guardian
+72445,Door
+72446,Guardian Warrior's Key
+72447,Olthoi Hive Guardian
+72448,Door
+72449,Hive Maggot
+72450,Grub Test Stopgap
+72451,Grub Test Maggot Gen
+72452,Olthoi Hive Guardian
+72453,Virindi Sentinel
+72454,Queen's Quarters
+72455,Olthoi Hive Guardian
+72456,Hive Queen Static Gen
+72457,Hive Queen Dynamic Gen
+72458,Hive Queen Weak Guards Gen
+72459,Olthoi Hive Brood
 72470,Hoshino Fort Surface Gen
 72471,Crypt Eidolon Gen
 72472,Trap
@@ -40555,9 +41037,62 @@
 72680,Present
 72681,Table
 72682,Jester's Malevolent Eye
+72683,Hive Maggot Gen
+72684,Surface
+72685,Hive Eviscerator Sprayer Gen
+72686,Corrosive Bolt
+72687,North Marae High Swarm A Gen
+72688,North Marae High Swarm B Gen
+72689,North Marae High Swarm C Gen
+72690,North Marae High Swarm D Gen
+72691,North Marae High Master Gen
+72692,Olthoi Hive Soldier
+72693,Olthoi Hive Mutilator
+72694,Olthoi Hive Eviscerator
+72695,Olthoi Hive Brood
+72696,Brood Pincer
 72697,Olthoi Hive Eviscerator
 72698,Chorizite Chest
+72699,North East Marae High Swarm A Gen
+72700,South East Marae High Swarm A Gen
+72701,South West Marae High Swarm A Gen
+72702,North West Marae High Swarm A Gen
+72703,North East Marae High Swarm B Gen
+72704,South East Marae High Swarm B Gen
+72705,South West Marae High Swarm B Gen
+72706,North West Marae High Swarm B Gen
+72707,North East Marae High Swarm C Gen
+72708,South East Marae High Swarm C Gen
+72709,South West Marae High Swarm C Gen
+72710,North West Marae High Swarm C Gen
+72711,North East Marae High Swarm D Gen
+72712,South East Marae High Swarm D Gen
+72713,South West Marae High Swarm D Gen
+72714,North West Marae High Swarm D Gen
+72715,Olthoi Hive Soldier
+72716,Olthoi Hive Soldier
+72717,Olthoi Hive Soldier
+72718,Olthoi Hive Soldier
+72719,Olthoi Hive Mutilator
+72720,Olthoi Hive Mutilator
+72721,Olthoi Hive Mutilator
+72722,Olthoi Hive Mutilator
+72723,Olthoi Hive Eviscerator
+72724,Olthoi Hive Eviscerator
+72725,Olthoi Hive Eviscerator
+72726,Olthoi Hive Eviscerator
+72727,Olthoi Hive Brood
+72728,Olthoi Hive Brood
+72729,Olthoi Hive Brood
+72730,Olthoi Hive Brood
+72731,Northeast Marae High Master Gen
+72732,Southeast Marae High Master Gen
+72733,Southwest Marae High Master Gen
+72734,Northwest Marae High Master Gen
 72735,Arcane Pyramid
+72736,Galvanic Chest
+72737,Galvanic Chest
+72738,Bar of Curved Metal
 72739,Spectral Nanjou Shou-jen
 72740,Surface
 72741,Vile Potion
@@ -40843,6 +41378,10 @@
 80149,DCA ExLum1 Linkable Generator
 80150,Tremendous Baby Monouga
 80151,Eggsploder
+80152,A'mun Node Golem
+80153,Esper Node Golem
+80154,Halaetan Gatestone
+80155,Halaetan Node Golem
 80200,Menhir Ring One
 80201,Menhir Ring Two
 80202,Menhir Ring Three
@@ -40870,6 +41409,9 @@
 80224,New Years Day Events Stopgap Gen
 80225,Holiday Planner Generator
 80226,Cloaked Covenant Breastplate
+80227,Egg
+80228,Royal Wedding Anniversary Stopgap Gen
+80229,Royal Wedding Anniversary Stopgap!
 80300,Blight Lictor's Head
 80301,Scepter of Menilesh
 80302,Radiant Blood Letter of Introduction
@@ -41096,6 +41638,7 @@
 85002,Bookcase
 87012,GY Night Bunker Top Gen
 87013,Graveyard Rat Burrow Gen
+87017,Isin Dule Generator
 87018,Small Sand Golem
 87019,StrangeDeviceOneScene Gen
 87020,StrangeDeviceOne Watcher
@@ -41128,11 +41671,6 @@
 87048,Pumpkin Lord Generator
 87049,Harvest Reaper Generator
 87050,Booter Gen
-87051,Updated Obsidian Center Mix Generator
-87052,Updated Obsidian Plains Virindi Camp Generator
-87053,Updated Obsidian Plains Shadow Camp Generator
-87054,Updated Obsidian Plains Mix Camp Generator
-87055,Updated Obsidian Plains Mix Camp Two Generator
 87056,Aerbax's Shadow 1 Gen
 87057,Aerbax's Shadow 2 Gen
 87058,Aerbax's Shadow 3 Gen
@@ -41147,7 +41685,7 @@
 87067,Virindi Protector Gen
 87068,Shadow Protector Gen
 87069,Gateway
-87070,Spawn Watcher
+87070,Portal Controller
 87071,Spawn 1 Generator
 87072,Spawn 2 Generator
 87073,Spawn 3 Generator
@@ -41380,7 +41918,7 @@
 87307,Bosh Bosh 1 Gen
 87308,Bosh Bosh 2 Gen
 87309,Bosh Bosh 3 Gen
-87310,BoshBosh StopGap
+87310,Bosh Bosh Master Gen
 87311,Greater Unstable Bosh Bosh Slayer Token
 87312,Cavern Exit
 87313,Abbess Tir'Livik
@@ -41479,6 +42017,8 @@
 87415,Saving Asherons Glowing Statue Shard Gen
 87416,Saving Asherons Event Cleanup Controller
 87417,Withered Atoll Tumerok Generator
+87418,Mukkir Nest
+87419,Recluse Pillar Generator
 87420,Alembic Mucor
 87421,Mucor-altered Granite
 87422,Mucor-altered Opal
@@ -41495,6 +42035,10 @@
 87433,Under Drudge Fort
 87434,Under Drudge Fort Unusable Portal Gen
 87435,Under Drudge Fort
+87436,Mark of the Overlord
+87437,Recluse Pillar Generator
+87438,Recluse Door 1 Controller
+87439,Recluse Door 2 Controller
 87440,Fake Lord Kresovus Gen
 87441,Lugian Guards Gen
 87442,First Time Trials Event Controller
@@ -41524,6 +42068,7 @@
 87466,Shou-jen Shozoku Trousers
 87467,The Story of the Lost Sisters
 87468,The Story of the Lost Sisters
+87469,Recluse Open Door 1 Controller
 87470,Lab Guardian's Key
 87471,Surface
 87472,Shroud Cabal Ley-Leech
@@ -41538,6 +42083,11 @@
 87481,Plucked Eye of T'thuun
 87482,Tchk'Tain the Tender Night Gen
 87483,Tchk'Tain the Tender Day Gen
+87484,Recluse Open Door 2 Controller
+87486,Charged Niche Generator
+87487,Fiery Alcove Generator
+87488,Frozen Recess Generator
+87489,Stinging Corner Generator
 87490,Empyrean Rescue Dungeon Upper Generator
 87491,Empyrean Rescue Dungeon Lower Generator
 87492,Empyrean Rescue Dungeon Bottom Generator
@@ -41603,13 +42153,17 @@
 87553,Flaming Spadone
 87554,Frost Spadone
 87555,Red Rune Silveran Mace
-87559,Lord Pyrovor
+87556,Dust Guardian
+87557,Ancient Dusty Key
+87558,Lair of the Magus Master Generator
+87559,Lair of the Magus Generator
 87560,Dericost Vault
 87561,Dericost Vault Key
 87562,Dericost Vault
 87563,Ruschk Sadist Warchief
 87564,Unfinished Dericost Phylactery
 87565,Dericost Vault Generator
+87566,Chorizite Chest
 87567,Dericost Chest Key
 87568,Ancient Reliquary
 87569,Ruschk Aspect of Grael
@@ -41632,6 +42186,7 @@
 87586,Rock
 87587,Rock
 87588,Ruschk Aspect Slayer Token
+87589,Mu-miyah Vizier
 87590,Abbess Zik'Lir
 87591,Falatacot Vault Generator
 87592,Surface
@@ -41656,6 +42211,7 @@
 87611,Rock
 87612,Rock
 87613,Shadow Aspect Slayer Title Token
+87614,Mu-miyah Champion
 87615,Hastar's Essence
 87616,Surface
 87617,Black Totem Temple
@@ -41820,6 +42376,18 @@
 87776,Pillar of Lightning
 87777,Surface
 87778,Prodigal Harby Creature Gen
+87779,Prodigal Shadow Master Gen
+87780,Prodigal Shadow Wave 1 Gen
+87781,Prodigal Shadow Wave 2 Gen
+87782,Prodigal Shadow Wave 3 Gen
+87783,Prodigal Shadow Boss Gen
+87784,Prodigal Shadow NPC Event Gen
+87785,Prodigal Shadow Attackable Event Gen
+87786,Prodigal Shadow Event Controller
+87787,Prodigal Shadow Wave 1 Master Gen
+87788,Prodigal Shadow Wave 2 Master Gen
+87789,Prodigal Shadow Wave 3 Master Gen
+87790,Prodigal Shadow Event Controller
 87791,Raymond
 87792,Raymond Event Gen
 87793,List of Deliveries
@@ -41862,3 +42430,387 @@
 87830,Olthoi Slasher
 87831,Surface
 87832,Roots of Skuld Generator
+87833,Blighted Oak Golem Camp Generator
+87834,Blighted Hollowminon Sotiris Camp Generator
+87835,Blighted Bane Grievver Camp Generator
+87836,Blighted Dire Ursuin Camp Generator
+87837,Faintly Glowing Data Crystal
+87838,Glowing Data Crystal
+87839,An Empyrean device
+87840,Harlune's Diplomacy Room 1 Generator
+87841,Large Pressure Plate
+87842,Harlune's Diplomacy Room 2 Generator
+87843,Large Pressure Plate
+87844,Harlune's Diplomacy Final Gen
+87845,Upper Catacombs Generator
+87846,Apostate Rift Aggressor
+87847,Apostate Rift Aggressor
+87848,Mu-miyah Lord
+87849,Mu-miyah Sentinel
+87850,RBGauntletArena1 Master Generator
+87851,Gauntlet Stage1 Wave 1 Gen
+87852,Gauntlet Stage1 Wave 2 Gen
+87853,Gauntlet Stage1 Wave 3 Gen
+87854,Gauntlet Stage1 Wave 4 Gen
+87855,RB Gauntlet Arena1 Booter Gen
+87856,RB Gauntlet Stage1 Exit Controller
+87857,RB Gauntlet Stage1 Controller
+87858,Gauntlet Stage2 Wave 1 Gen
+87859,Gauntlet Stage2 Wave 2 Gen
+87860,Gauntlet Stage2 Wave 3 Gen
+87861,Gauntlet Stage2 Wave 4 Gen
+87862,RB Gauntlet Booter
+87863,RB Gauntlet Stage2 Exit Controller
+87864,RBGauntletArena2 Master Generator
+87865,RB Gauntlet Arena2 Booter Gen
+87866,RB Gauntlet A1 Stopgap Generator
+87867,RB Gauntlet A2 Stopgap Generator
+87868,Gauntlet Arena Two Statue
+87869,Gauntlet Guest Ticket
+87870,Gauntlet Guest Ticket
+87871,Gauntlet Guest Ticket
+87872,Gauntlet Guest Ticket
+87873,Gauntlet Stage 10
+87874,Gauntlet Stage 11
+87875,Scroll of Celestial Hand Recall
+87876,CHGauntletArena1 Master Generator
+87877,RB Gauntlet Stage2 Controller
+87878,Gauntlet Stage3 Wave 1 Gen
+87879,Gauntlet Stage3 Wave 2 Gen
+87880,Gauntlet Stage3 Wave 3 Gen
+87881,Gauntlet Stage3 Wave 4 Gen
+87882,Inferno
+87883,RB Gauntlet Stage3 Exit Controller
+87884,RB Gauntlet Stage3 Controller
+87885,Gauntlet Stage4 Wave 1 Gen
+87886,Gauntlet Stage4 Wave 2 Gen
+87887,Gauntlet Stage4 Wave 3 Gen
+87888,Gauntlet Stage4 Wave 4 Gen
+87889,Inferno
+87890,RB Gauntlet Stage4 Exit Controller
+87891,RB Gauntlet Stage4 Controller
+87892,Gauntlet Stage5 Wave 1 Gen
+87893,RB Gauntlet Stage5 Master Gen
+87894,RB Gauntlet Stage5 Exit Stopgap
+87895,RB Gauntlet Stage5 Controller
+87896,Gauntlet Stage6 Wave 1 Gen
+87897,Gauntlet Stage6 Wave 2 Gen
+87898,Gauntlet Stage6 Wave 3 Gen
+87899,Gauntlet Stage6 Wave 4 Gen
+87900,RB Gauntlet Stage5 Exit Gen
+87901,RB Gauntlet Stage6 Exit Controller
+87902,RB Gauntlet Stage6 Controller
+87903,Gauntlet Stage7 Wave 1 Gen
+87904,Gauntlet Stage7 Wave 2 Gen
+87905,Gauntlet Stage7 Wave 3 Gen
+87906,Gauntlet Stage7 Wave 4 Gen
+87907,RB Gauntlet Stage7 Controller
+87908,RB Gauntlet Stage7 Exit Controller
+87909,RB Gauntlet Stage8 Controller
+87910,Gauntlet Stage8 Wave 1 Gen
+87911,Gauntlet Stage8 Wave 2 Gen
+87912,Gauntlet Stage8 Wave 3 Gen
+87913,Gauntlet Stage8 Wave 4 Gen
+87914,RB Gauntlet Stage11 Controller
+87915,RB Gauntlet Stage8 Exit Controller
+87916,RB Gauntlet Stage9 Controller
+87917,Gauntlet Stage9 Wave 1 Gen
+87918,Gauntlet Stage9 Wave 2 Gen
+87919,Gauntlet Stage9 Wave 3 Gen
+87920,Gauntlet Stage9 Wave 4 Gen
+87921,RB Gauntlet Stage10 Controller
+87922,RB Gauntlet Stage9 Exit Controller
+87923,RB Gauntlet Stage12 Controller
+87924,Gauntlet Stage10 Wave 1 Gen
+87925,Gauntlet Stage10 Wave 2 Gen
+87926,Gauntlet Stage10 Wave 3 Gen
+87927,Gauntlet Stage10 Wave 4 Gen
+87928,CH Gauntlet Booter
+87929,RB Gauntlet Stage10 Exit Controller
+87930,CH Gauntlet A1 Stopgap Generator
+87931,Gauntlet Stage11 Wave 1 Gen
+87932,Gauntlet Stage11 Wave 2 Gen
+87933,Gauntlet Stage11 Wave 3 Gen
+87934,Gauntlet Stage11 Wave 4 Gen
+87935,CH Gauntlet A2 Stopgap Generator
+87936,RB Gauntlet Stage11 Exit Controller
+87937,Gauntlet Stage 12
+87938,Gauntlet Stage12 Wave 1 Gen
+87939,Gauntlet Stage12 Wave 2 Gen
+87940,Gauntlet Stage12 Wave 3 Gen
+87941,Gauntlet Stage12 Wave 4 Gen
+87942,Gauntlet Exit
+87943,RB Gauntlet Stage12 Exit Controller
+87944,Gauntlet Stage 2
+87945,Gauntlet Stage 3
+87946,Gauntlet Stage 4
+87948,Rynthid Encampment
+87949,Paradox-touched Valley Tent
+87950,Neftet
+87951,Graveyard
+87952,Gear Knight Invasion Area
+87953,Hoshino Fortress
+87954,Gauntlet Stage 5
+87955,Gauntlet Stage 6
+87956,Gauntlet Stage 7
+87957,Gauntlet Stage 8
+87958,Gauntlet Stage 9
+87959,Gauntlet Stage 10
+87960,Gauntlet Stage 11
+87961,Gauntlet Stage 12
+87962,CH Gauntlet Stage1 Controller
+87963,CH Gauntlet Stage1 Exit Controller
+87964,CH Gauntlet Stage2 Controller
+87965,CH Gauntlet Stage2 Exit Controller
+87966,CH Gauntlet Stage3 Controller
+87967,CH Gauntlet Stage3 Exit Controller
+87968,CH Gauntlet Stage4 Controller
+87969,CH Gauntlet Stage4 Exit Controller
+87970,CH Gauntlet Stage5 Master Gen
+87971,CH Gauntlet Stage5 Controller
+87972,CH Gauntlet Stage5 Exit Stopgap
+87973,CH Gauntlet Arena1 Booter Gen
+87974,CH Gauntlet Stage5 Exit Gen
+87975,Gauntlet Stage 6
+87976,CH Gauntlet Stage6 Controller
+87977,CH Gauntlet Stage6 Exit Controller
+87978,CH Gauntlet Stage7 Controller
+87979,CH Gauntlet Stage7 Exit Controller
+87980,CH Gauntlet Stage8 Controller
+87981,CH Gauntlet Stage8 Exit Controller
+87982,CH Gauntlet Stage9 Controller
+87983,CH Gauntlet Stage9 Exit Controller
+87984,CH Gauntlet Stage10 Controller
+87985,CH Gauntlet Stage10 Exit Controller
+87986,CH Gauntlet Stage11 Controller
+87987,CH Gauntlet Stage11 Exit Controller
+87988,CH Gauntlet Stage12 Controller
+87989,CH Gauntlet Stage12 Exit Controller
+87990,Gauntlet Exit
+87991,CHGauntletArena2 Master Generator
+87992,CH Gauntlet Arena2 Booter Gen
+87993,Eldrytch Web Warrior
+87994,Eldrytch Web Officer
+87995,Eldrytch Web Warrior
+87996,Gauntlet Arena One Statue
+87997,Gauntlet Arena Two Statue
+87998,EW Gauntlet A1 Stopgap Generator
+87999,EW Gauntlet A2 Stopgap Generator
+88000,Gauntlet Stage 2
+88001,Gauntlet Stage 3
+88002,Gauntlet Stage 4
+88003,Gauntlet Stage 6
+88004,Gauntlet Stage 7
+88005,Gauntlet Stage 8
+88006,Gauntlet Stage 9
+88007,Gauntlet Stage 10
+88008,Gauntlet Stage 11
+88009,Gauntlet Stage 12
+88010,Gauntlet Exit
+88011,Gauntlet Stage 1
+88012,Gauntlet Stage 2
+88013,Gauntlet Stage 3
+88014,Gauntlet Stage 4
+88015,Gauntlet Stage 6
+88016,Gauntlet Stage 7
+88017,Gauntlet Stage 8
+88018,Gauntlet Stage 9
+88019,Gauntlet Stage 10
+88020,Gauntlet Stage 11
+88021,Gauntlet Stage 12
+88022,Gauntlet Exit
+88023,Gauntlet Stage 6
+88024,EW Gauntlet Stage1 Controller
+88025,EW Gauntlet Stage1 Exit Controller
+88026,EW Gauntlet Stage2 Controller
+88027,EW Gauntlet Stage2 Exit Controller
+88028,EW Gauntlet Stage3 Controller
+88029,EW Gauntlet Stage3 Exit Controller
+88030,EW Gauntlet Stage4 Controller
+88031,EW Gauntlet Stage4 Exit Controller
+88032,EW Gauntlet Stage5 Master Gen
+88033,EW Gauntlet Stage5 Controller
+88034,EW Gauntlet Stage5 Exit Stopgap
+88035,EW Gauntlet Arena1 Booter Gen
+88036,EW Gauntlet Stage5 Exit Gen
+88037,EW Gauntlet Stage6 Controller
+88038,EW Gauntlet Stage6 Exit Controller
+88039,EW Gauntlet Stage7 Controller
+88040,EW Gauntlet Stage7 Exit Controller
+88041,EW Gauntlet Stage8 Controller
+88042,EW Gauntlet Stage8 Exit Controller
+88043,EW Gauntlet Stage9 Controller
+88044,EW Gauntlet Stage9 Exit Controller
+88045,EW Gauntlet Stage10 Controller
+88046,EW Gauntlet Stage10 Exit Controller
+88047,EW Gauntlet Stage11 Controller
+88048,EW Gauntlet Stage11 Exit Controller
+88049,EW Gauntlet Stage12 Controller
+88050,EW Gauntlet Stage12 Exit Controller
+88051,Gauntlet Guest Ticket
+88052,Gauntlet Guest Ticket
+88053,Scroll of Eldrytch Web Recall
+88054,Gauntlet Stage 5
+88055,Gauntlet Stage 5
+88056,EWGauntletArena1 Master Generator
+88057,EWGauntletArena2 Master Generator
+88058,EW Gauntlet Arena2 Booter Gen
+88059,EW Gauntlet Booter
+88060,Gromnus Champion
+88061,Flame Gromnie
+88062,Gauntlet Boss RB Surface Gen
+88063,Gauntlet Boss CH Surface Gen
+88064,Gauntlet Boss EW Surface Gen
+88065,Surface
+88066,Gauntlet Boss Controller
+88067,Tch'Keryk the Emissary
+88068,Tch'Keryk the Emissary's Severed Head
+88069,Surface
+88070,Moarsman Blight-caller
+88071,Moarsman Blight-caller's Severed Head
+88072,Moarsman Blight-caller Generator
+88073,Surface
+88074,Holcha
+88075,Idol Minion
+88076,Giant Blessed Moarsman
+88077,Giant Blessed Moarsman's Severed Head
+88078,Giant Blessed Moarsman Generator
+88079,Tch'Keryk the Emissary Generator
+88080,Mu-miyah Guardian
+88081,Spectral Bloodmage
+88082,Spectral Samurai
+88083,Spectral Archer
+88084,Spectral Archer
+88085,Tremb'Orh
+88086,Marionette Minion
+88087,Spectral Samurai
+88088,Spectral Minion
+88089,Spectral Minion
+88090,Spectral Blade Master
+88091,Spectral Bushi
+88092,Spectral Voidmage
+88093,Spectral Voidmage
+88096,Fowl Basement
+88097,Fowl Basement Gen
+88098,Fowl Basement Feather Gen
+88100,Door
+88101,Yellow Portal
+88102,Blue Portal
+88103,Blue Portal
+88104,Green Portal
+88105,Green Portal
+88106,Moars Test Master Generator
+88107,Moars Raging Generator
+88108,Moars Enraged Generator
+88109,Rynthid Assessment Door Controller
+88110,Moars Test Portal Generator
+88111,Moars Test End Portal Generator
+88112,Rynthid Start Portal Generator
+88113,Portal Energy
+88114,Corrupted Energy
+88115,Portal Energy
+88116,Corrupted Energy
+88117,Orange Portal
+88118,Yellow Portal
+88119,White Portal
+88120,Blue Portal
+88121,Green Portal
+88122,Swamp Phyntos Wasp
+88123,Wasp Test Master Generator
+88124,Swamp Phyntos Wasp Generator
+88125,Wasp Test Portal Generator
+88126,Wasp Test End Portal Generator
+88127,Training Dummies 1 Portal Generator
+88128,Training Dummies 1 End Portal Generator
+88129,Mite Test Portal Generator
+88130,Mite Test End Portal Generator
+88131,Training Dummies 2 Portal Generator
+88132,Training Dummies 2 End Portal Generator
+88133,Colored Jump Portal Generator
+88134,Colored Jump End Portal Generator
+88135,Portal Jump Portal Generator
+88136,Portal Jump End Portal Generator
+88137,Margul Roamer
+88138,Fierce Margul Roamer
+88139,Vicious Margul Roamer
+88140,Margul Test Master Generator
+88141,Margul Test Portal Generator
+88142,Margul Test End Portal Generator
+88143,Jump Test Portal Generator
+88144,Jump Test End Portal Generator
+88145,Gurog Bruiser
+88146,Gurog Test Portal Generator
+88147,Gurog Test End Portal Generator
+88148,Gurog Test 2 Portal Generator
+88149,Gurog Test 2 End Portal Generator
+88150,Grievver Test Master Generator
+88151,Grievver Violator Generator
+88152,Grievver Test Portal Generator
+88153,Grievver Test End Portal Generator
+88154,Drudge Wilter
+88155,Drudge Test Master Generator
+88156,Drudge Wilter Generator
+88157,Drudge Test Portal Generator
+88158,Drudge Test End Portal Generator
+88159,Remoran Sapper
+88160,Fierce Remoran Sapper
+88161,Vicious Remoran Sapper
+88162,Remoran Test Master Generator
+88163,Remoran Test Portal Generator
+88164,Remoran Test End Portal Generator
+88165,Mukkir
+88166,Fierce Mukkir
+88167,Vicious Mukkir
+88168,Mukkir Test Master Generator
+88169,Mukkir Test Portal Generator
+88170,Mukkir Test End Portal Generator
+88171,Disappearing Jump Test Portal Generator
+88172,Disappearing Jump Test End Portal Generator
+88200,Temple of Mornings
+88201,Seed of Essence
+88202,Large Desert Flower
+88203,Sath'tik Eyestalk
+88204,Sath'tik Tendril
+88205,Sath'tik Tentacle
+88206,Temple of Mornings Generator
+88207,Temple of Mornings Inside Generator
+88208,Bulb of Mornings
+88209,Temple Exit
+88210,Sanctum Guardian Spirit
+88211,Dune Hunter
+88212,Dune Reaper
+88213,Dune Seeker
+88214,Guardian Dune Reaper
+88215,Sanctum Guardian Spirit
+88216,Seed of Essence
+88217,Bloodroot Vine
+88218,Temple Exit
+88219,Bulb of Harvests
+88220,Vine
+88221,Vine Hotspot Generator
+88222,Small Vine Hotspot Generator
+88223,Adrenkus Cave Generator
+88224,Norus
+88225,Sanctum Guardian Spirit
+88226,Bulb of Twilight
+88227,Temple Exit
+88228,Seed of Essence
+88229,Alb'arean Ore
+88230,Spectral Archer
+88231,Spectral Bushi
+88232,Spectral Minion
+88233,Spectral Samurai
+88234,Spectral Voidmage
+88235,Nature Guardian
+88236,Summoned Wisp
+88237,Temple of Twilight Spectral Generator
+88238,Temple of Twilight Ore Generator
+88239,Temple of Twilight Generator
+88240,Empowered Carenzi Ravager
+88241,Empowered Savage Carenzi
+88242,Temple of Twilight Gromnie Generator
+88243,Temple of Twilight Carenzi Generator
+88247,Lord Pyrovor
+88411,Elysa Strathelar
+88412,Aleesa Guards Camp Generator
+88413,Ingot

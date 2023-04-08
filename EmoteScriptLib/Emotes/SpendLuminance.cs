@@ -13,7 +13,7 @@ namespace EmoteScriptLib.Emotes
 
             : base(EmoteType.SpendLuminance)
         {
-            HeroXP64 = amount;
+            Amount64 = amount;
         }
     }
 }

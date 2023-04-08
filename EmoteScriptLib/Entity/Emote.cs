@@ -676,7 +676,7 @@ namespace EmoteScriptLib
 
                 case EmoteType.AwardLuminance:
                 case EmoteType.SpendLuminance:
-                    return $"{HeroXP64:N0}";
+                    return $"{Amount64:N0}";
 
                 case EmoteType.AwardSkillXP:
                 case EmoteType.AwardSkillPoints:

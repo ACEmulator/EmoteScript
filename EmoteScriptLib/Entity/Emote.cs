@@ -250,7 +250,7 @@ namespace EmoteScriptLib
 
                 case EmoteType.InqNumCharacterTitles:
 
-                    return Branch.TestCharacterNumTitles;
+                    return Branch.TestNumCharacterTitles;
 
                 case EmoteType.InqFellowQuest:
                 case EmoteType.UpdateFellowQuest:

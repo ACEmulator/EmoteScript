@@ -56,7 +56,7 @@ namespace EmoteScriptLib
             EmoteCategory.TestNoFellow
         };
 
-        public static List<EmoteCategory> TestCharacterNumTitles { get; } = new List<EmoteCategory>()
+        public static List<EmoteCategory> TestNumCharacterTitles { get; } = new List<EmoteCategory>()
         {
             EmoteCategory.NumCharacterTitlesSuccess,
             EmoteCategory.NumCharacterTitlesFailure

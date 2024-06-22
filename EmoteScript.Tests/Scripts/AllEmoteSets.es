@@ -8,10 +8,10 @@ HearChat:
 HearChat: TestMessage
 Give: 1234
 GotoSet: TestGoto
-NumFellowsFailure: TestFellow
-NumFellowsSuccess: TestFellow
-NumCharacterTitlesFailure: TestCharacter
-NumCharacterTitlesSuccess: TestCharacter
+NumFellowsFailure: TestNumFellows
+NumFellowsSuccess: TestNumFellows
+NumCharacterTitlesFailure: TestCharacterTitles
+NumCharacterTitlesSuccess: TestCharacterTitles
 QuestFailure: TestQuest
 QuestNoFellow: TestFellow
 QuestSuccess: TestQuest

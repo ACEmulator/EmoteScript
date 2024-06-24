@@ -205,7 +205,6 @@ namespace EmoteScriptLib
                     return Branch.GotoSet;
 
                 case EmoteType.InqContractsFull:
-                case EmoteType.InqNumCharacterTitles:
                 case EmoteType.InqOwnsItems:
                 case EmoteType.InqPackSpace:
                 case EmoteType.InqYesNo:
@@ -247,7 +246,11 @@ namespace EmoteScriptLib
 
                 case EmoteType.InqFellowNum:
 
-                    return Branch.TestFellow;
+                    return Branch.TestNumFellows;
+
+                case EmoteType.InqNumCharacterTitles:
+
+                    return Branch.TestNumCharacterTitles;
 
                 case EmoteType.InqFellowQuest:
                 case EmoteType.UpdateFellowQuest:
@@ -334,7 +337,7 @@ namespace EmoteScriptLib
                     break;
 
                 case EmoteType.InqNumCharacterTitles:
-                    key = "NumCharacterTitles";
+                    key = "HasNumCharacterTitles";
                     break;
 
                 case EmoteType.InqOwnsItems:
@@ -372,7 +375,7 @@ namespace EmoteScriptLib
                     break;
 
                 case EmoteType.InqFellowNum:
-                    key = "HasFellowship";
+                    key = "HasFellowNum";
                     break;
             }
 
@@ -420,6 +423,7 @@ namespace EmoteScriptLib
                 switch (Type)
                 {
                     case EmoteType.InqAttributeStat:
+                    case EmoteType.InqFellowNum:
                     case EmoteType.InqFloatStat:
                     case EmoteType.InqIntStat:
                     case EmoteType.InqInt64Stat:
@@ -870,6 +874,32 @@ namespace EmoteScriptLib
                         }
                     }
                     return $"{headingStr}";
+
+                case EmoteType.InqFellowNum:
+
+                    min = Min ?? int.MinValue;
+                    max = Max ?? int.MaxValue;
+
+                    var numFellows = "";
+                    if (max != int.MaxValue)
+                        numFellows = $"{min:N0} - {max:N0}";
+                    else
+                        numFellows = $"{min:N0}";
+
+                    return $"{numFellows}, {Message}";
+
+                case EmoteType.InqNumCharacterTitles:
+
+                    min = Min ?? int.MinValue;
+                    max = Max ?? int.MaxValue;
+
+                    var numTitles = "";
+                    if (max != int.MaxValue)
+                        numTitles = $"{min:N0} - {max:N0}";
+                    else
+                        numTitles = $"{min:N0}";
+
+                    return $"{numTitles}, {Message}";
             }
 
             return Message;

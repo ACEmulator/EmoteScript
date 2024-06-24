@@ -64,6 +64,9 @@ InqAttributeStat: Strength, 1-5
 InqBoolStat: Attackable
 InqBoolStat: PropertyBool.Attackable
 InqEvent: TestEvent
+InqFellowNum: Min: 1, Max: 5, SmallFellow
+InqFellowNum: 0 - 8, NotFullFellow
+InqFellowNum: 9-9, FullFellow
 InqFellowQuest: TestQuest
 InqFloatStat: ResistFire, 0-0.5
 InqFloatStat: PropertyFloat.ResistFire, 0 - 0.5
@@ -75,6 +78,9 @@ InqIntStat: NumDeaths, 1-5, CheckNumDeaths
 InqMyQuest: TestQuest
 InqMyQuestSolves: TestQuest, 5-10
 InqMyQuestSOlves: TestQuest, Min: 5, Max: 10
+InqNumCharacterTitles: Min: 10, Max: 25, TenToTwentyFiveTitles
+InqNumCharacterTitles: 0 - 0, ZeroTitles
+InqNumCharacterTitles: 60, AtLeastSixtyTitles
 InqOwnsItems: 1234
 InqOwnsItems: 1234, 5
 InqOwnsItems: 1234, StackSize: 5

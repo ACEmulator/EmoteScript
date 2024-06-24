@@ -48,5 +48,18 @@ namespace EmoteScriptLib
             EmoteCategory.QuestFailure,
             EmoteCategory.QuestNoFellow
         };
+
+        public static List<EmoteCategory> TestNumFellows { get; } = new List<EmoteCategory>()
+        {
+            EmoteCategory.NumFellowsSuccess,
+            EmoteCategory.NumFellowsFailure,
+            EmoteCategory.TestNoFellow
+        };
+
+        public static List<EmoteCategory> TestNumCharacterTitles { get; } = new List<EmoteCategory>()
+        {
+            EmoteCategory.NumCharacterTitlesSuccess,
+            EmoteCategory.NumCharacterTitlesFailure
+        };
     }
 }

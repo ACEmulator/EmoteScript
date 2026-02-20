@@ -1,0 +1,8 @@
+**NOTES**
+You need Notepad++ to be Version 7.6.1 or higher.
+If you already have ES UDL installed, you will need to remove it. If you don't Skip to Step 2
+
+Step 1: Remove Exsiting EmoteScript UDL.  Click Language, click User Defined Language, Then click on Define Your Language. On the pop up window, click the dropdown box next to User Language, select EmoteScript or ES (whatever EmoteScript is named), then click the Remove button.
+Step 2: At the above screen import the EmoteScript_UDL_V2.xml
+Step 3: Copy the EmoteScript.xml file to your Notepad++\autoCompletion folder.  (normal path is C:\Program Files (x86)\Notepad++\autoCompletion).
+Step 4: Restart Notepad++

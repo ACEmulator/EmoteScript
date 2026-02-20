@@ -701,7 +701,7 @@ namespace EmoteScriptLib
 
                 case EmoteType.IncrementMyQuest:
                 case EmoteType.IncrementQuest:
-                    var amount = (Amount ?? 1) != 1 ? $", {Amount}" : "";
+                    var amount = (Amount ?? 1) > 1 ? $", {Amount}" : "";
                     return $"{Message}{amount}";
 
                 case EmoteType.AwardTrainingCredits:
